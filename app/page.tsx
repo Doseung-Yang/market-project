@@ -12,8 +12,8 @@ export default function Home() {
       items-center gap-2 *:font-medium'
       >
         <span className='text-9xl'>🎶</span>
-        <h1 className='text-4xl'>페이브릴</h1>
-        <h2 className='text-2xl'>페이브릴 마켓에 오신걸 환영해요!</h2>
+        <h1 className='text-4xl'>도승</h1>
+        <h2 className='text-2xl'>도승 마켓에 오신걸 환영해요!</h2>
       </div>
       <div
         className='flex flex-col items-center

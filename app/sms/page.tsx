@@ -11,12 +11,14 @@ export default function LogIn() {
       </div>
       <form className='flex flex-col gap-3'>
         <FormInput
+          name='number'
           type='number'
           placeholder='phone number'
           required
           errors={[' ']}
         />
         <FormInput
+          name='number'
           type='number'
           placeholder='Verification code'
           required
